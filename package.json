@@ -1,0 +1,14 @@
+{
+  "name": "is-ssn",
+  "version": "1.0.0",
+  "description": "A single function module to verify that a string is an ssn",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "Trey Foster",
+  "license": "MIT",
+  "dependencies": {
+    "ava": "^0.25.0"
+  }
+}
